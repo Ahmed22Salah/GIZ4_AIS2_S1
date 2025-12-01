@@ -47,7 +47,7 @@ tanh(x)
 
 Applies the Sigmoid activation function:
 
-1 / (1 + exp(-x))
+1 / (1 + e^(-x))
 
 4. Forward Pass Flow
 
@@ -58,22 +58,6 @@ The data passes through the network in this order:
 3. Dense Layer 2
 4. Sigmoid Activation
 
----
-How to Run
-
-Run the Python script:
-
-python main.py
-
-The program will print:
-
-Layer 1 output
-
-Activation (Tanh) output
-
-Layer 2 output
-
-Activation (Sigmoid) output
 ---
 
 Purpose of the Project
