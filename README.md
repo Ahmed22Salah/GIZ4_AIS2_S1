@@ -5,7 +5,7 @@ DEPI R4
 This repository is designed for Python projects related to Machine Learning.
 
 
- Project Overview:
+ Simple NN Project Overview:
 
 This project implements a simple neural network from scratch using only NumPy.
 The network consists of:
