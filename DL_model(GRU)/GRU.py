@@ -57,7 +57,7 @@ CONFIG = {
     'use_focal_loss': True,
     'use_label_smoothing': True,
     'smoothing_factor': 0.1,
-    'use_ensemble': True,      # Train 5 models
+    'use_ensemble': True,      
     'n_ensemble': 5,
     'use_augmentation': True,  # Data augmentation
     'augmentation_factor': 2,
